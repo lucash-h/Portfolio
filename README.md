@@ -8,7 +8,9 @@ It has been deployed using pythonanywhere at
 <a href="https://lhatelyhoneyman.pythonanywhere.com/" target="_blank">lhatelyhoneyman.pythonanywhere.com</a>.
 
 ### Note:
-Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
+* Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
+* The requirements.txt may not be accurate, its something I need to look into
+* The Copper_Canyon.jpg takes a long time to load
 
 ## Imported Image Sources
 Copper_Canyon.jpg is courtesy of Koby Trinker, who took an awesome picture
