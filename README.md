@@ -1,11 +1,14 @@
 # Portfolio Website
 
-![Website Homepage](images\Website_Homepage.png)
+![Website Homepage](images/Website_Homepage.png)
 
+## Details
 This is my portfolio website that I have create using an HTML5 UP template, the details can be found below. 
-It has been deployed using pythonanywhere [here](lhatelyhoneyman.pythonanywhere.com).
+It has been deployed using pythonanywhere at 
+<a href="lhatelyhoneyman.pythonanywhere.com" target="_blank">lhatelyhoneyman.pythonanywhere.com</a>.
 
-## Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
+### Note:
+Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
 
 ## Imported Image Sources
 Copper_Canyon.jpg is courtesy of Koby Trinker, who took an awesome picture
