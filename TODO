@@ -1,0 +1,10 @@
+Get email message on contact page working
+Set parameters (valid email only, max x words)
+have error prevention(maybe a prompt before sending)
+
+Little bug with the left side bar
+Change pictures + gradient coloring
+Add portrait and header picture
+
+Flask setup has html working but not css
+could be from sass or path names
