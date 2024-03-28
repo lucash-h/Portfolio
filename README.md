@@ -1,4 +1,4 @@
-# Portfolio website
+# Portfolio Website
 
 ![Website Homepage](images\Website_Homepage.png)
 
