@@ -1,8 +1,19 @@
-This is my portfolio website that I have create using an HTML5 UP template, the details can be found below. 
-The message page uses flask to send a message to my email address and uses environment variables so that my personal information is not disclosed.
-It has been deployed using pythonanywhere
+# Portfolio website
 
-Prologue by HTML5 UP
+![Website Homepage](images\Website_Homepage.png)
+
+This is my portfolio website that I have create using an HTML5 UP template, the details can be found below. 
+It has been deployed using pythonanywhere [here](lhatelyhoneyman.pythonanywhere.com).
+
+## Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
+
+## Imported Image Sources
+Copper_Canyon.jpg is courtesy of Koby Trinker, who took an awesome picture
+
+
+## Template Details
+
+Prologue by [HTML5 UP](https://html5up.net/prologue)
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
