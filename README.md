@@ -5,7 +5,7 @@
 ## Details
 This is my portfolio website that I have create using an HTML5 UP template, the details can be found below. 
 It has been deployed using pythonanywhere at 
-<a href="lhatelyhoneyman.pythonanywhere.com" target="_blank">lhatelyhoneyman.pythonanywhere.com</a>.
+<a href="https://lhatelyhoneyman.pythonanywhere.com/" target="_blank">lhatelyhoneyman.pythonanywhere.com</a>.
 
 ### Note:
 Currently the message form is not working, an alternative is the email icon in the bottom left of the nav bar
